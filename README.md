@@ -7,4 +7,4 @@ Requires AutoHotKey to work.
 
 Includes some quality of life changes specific to my keyboard and what I want, but it can easily be altered to suit one's needs with basic AHK knowledge.
 
-- Mattis
+*Mattis*
